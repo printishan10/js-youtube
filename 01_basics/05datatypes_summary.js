@@ -76,6 +76,24 @@ let arr = [1,2,3]
 console.log(typeof arr); //-object
 
 
+//*******************************MEMORY*************************************************************************** */
+
+// we have two types of memory 
+// 1-stack   -Primitive types are stored in stack  and which is Copy by Value 
+// Primitive:
+// Changing copied variable does not affect original.
+
+// 2-Heap    -non primitive types are stored in heap and which is  Copy by Reference
+// Non-Primitive:
+// Changing copied object affects original because both share the same reference.
+
+
+
+
+
+
+
+
 
 
 
